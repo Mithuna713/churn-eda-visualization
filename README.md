@@ -40,9 +40,8 @@ Follows the 7 stages of visualization: **Acquire → Parse → Filter → Mine �
 ├── src/
 │   └── churn_eda_dl.py          # full pipeline: EDA, visualization, model, evaluation
 ├── report/
-│   ├── Assignment_II_Case_Study_Report.docx
-│   ├── Assignment_II_Case_Study_Report.pdf
-│   └── IEEE_Research_Paper.docx
+│   ├── EDA Research Paper Model pdf
+|
 ├── figs/                         # all generated charts (15 PNG files)
 └── outputs/
     ├── results.json              # numerical results used in the report
